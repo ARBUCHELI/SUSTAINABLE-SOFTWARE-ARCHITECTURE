@@ -86,6 +86,35 @@ OF MUDD).
 * Software architecture and cognitive psychology
 ------------------------------------------------
 
+* Architecture and Cognitive Psychology
+---------------------------------------
+A software development team must be able to quickly find their way around the source code and its structures as they work.
+
+
+* How Do We Spend Our Time?
+---------------------------
+. 70% Understanding code.
+
+. 20% Solving the problem.
+
+. 10% Writting code.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Layering as an architectural style
+------------------------------------
+
+* Layered Architecture (Technical Layering)
+----------------------
+
+			PRESENTATION LAYER --> APPLICATION LAYER --> DOMAIN LAYER --> INFRASTRUCTURE LAYER
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+			 
+
 
 
 
