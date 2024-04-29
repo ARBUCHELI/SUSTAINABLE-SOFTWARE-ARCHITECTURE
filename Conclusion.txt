@@ -1,0 +1,13 @@
+# CONCLUSION
+------------
+
+* Next Steps
+------------
+. Book --> Sustainable Software Architecture
+
+. Design Pattern
+
+. Domain-driven design
+
+
+
