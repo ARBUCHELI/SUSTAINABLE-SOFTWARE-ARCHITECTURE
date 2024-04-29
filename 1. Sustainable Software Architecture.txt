@@ -139,6 +139,22 @@ Cycles are drivers of technical debt.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Architecture reviews against technical debt
+---------------------------------------------
+
+* Status Determination
+----------------------
+. Comprehensive reviews or audits of 
+	- Software systems, databases, and interfaces
+	- Development process
+	- Structure and processes of the IT organization
+
+. Broad search
+	- Interviews with involved stakeholders
+	- Metrics and analytics tools
+
+			* THE BASIS FOR THE EVALUATION ARE THE THREE ARCHITECTURAL PRINCIPLES: MODULARITY, LAYERING, AND PATTERN CONSISTENCY
+
 
 
 
