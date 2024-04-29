@@ -112,6 +112,24 @@ A software development team must be able to quickly find their way around the so
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* With modularity against technical debt
+----------------------------------------
+
+* Modularity
+------------
+			* High Cohesion + loose coupling --> HIGH MODULARITY
+
+			* Separation of Concerns
+
+			* Single responsibility principle
+
+		
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 			 
 
