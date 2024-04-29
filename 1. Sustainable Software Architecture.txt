@@ -1,0 +1,86 @@
+# 1. SUSTAINABLE SOFTWARE ARCHITECTURE
+--------------------------------------
+
+* Software architecture and sustainability
+------------------------------------------
+
+* Architecture and Sustainability
+---------------------------------
+Software architecture is the structure of a software product.
+
+This includes elements, the externally visible properties of the elements, and the relationships between the elements.
+
+. In Java Terms
+---------------
+- Java Software has a lot of classes --> Elements.
+- Each class has an interface --> Externally visible properties of the classes.
+- The classes use each other --> Relationships.
+
+
+* What is Software Architecture?
+--------------------------------
+. Every software product has an architecture.
+
+. Lost architecture --> Software archaeology.
+
+
+* The Focus of Sustainability
+-----------------------------
+. Profitable investment due to long sustainability.
+
+. Sustainability = Lowest possible maintenance and expansion costs.
+
+			* TECHNICAL DEBT ARISES WHEN FALSE OR SUBOPTIMAL DECISIONS ARE MADE, WHETHER CONSCIOUSLY OR UNCONSCIOUSLY.
+
+
+* Causes of Technical Debt
+--------------------------
+. Technology become outdated.
+
+. No knowledge about software architecture.
+
+. Complexity and size of software systems.
+
+. Lack of understanding of management and customers for individual software development.
+
+
+* Software Development = Unplannable
+------------------------------------
+. Change of business processes.
+
+. Integration in target organization.
+
+. Rapid technical and economic development.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
