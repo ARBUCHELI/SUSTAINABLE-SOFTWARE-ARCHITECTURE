@@ -3,3 +3,19 @@
 
 * Introduction
 --------------
+			* DESIGN PATTERNS ARE VERY IMPORTANT FOT THE OVERALL ARCHITECTURE.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* What you should know
+----------------------
+. Suffered for technical debt and horrible design.
+
+. Some programming experience.
+
+. Know one or two design patterns.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
