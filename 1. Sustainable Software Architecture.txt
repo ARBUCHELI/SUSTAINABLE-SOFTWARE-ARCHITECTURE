@@ -54,6 +54,66 @@ This includes elements, the externally visible properties of the elements, and t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Impact of technical debt
+--------------------------
+
+* Effect of Technical Debt
+--------------------------
+. Types of technical debt.
+
+. Architectural erosion.
+
+. Increasing maintenance cost.
+
+. Refactorings.
+
+			* WHEN LOOKING FOR SOLUTIONS, THE FIRST THING TO TAKE INTO CONSIDERATIONS IS:
+			
+				. Test Coverage --> How many automated tests are there for the system?
+
+
+* Effect of Technical Debt
+--------------------------
+. Test debt --> Few Automated testing.
+
+. Desing and architecture debt --> Classes, Packages, Layers, modules, are badly cut very complex and inconsistenly structured. --> IN DOMAIN DRIVEN DESIGN WE SAY (THE SYSTEM IS A BIG BALL
+OF MUDD).
+
+. Implementation debt --> Long methods, large classes, and many others code smells.  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Software architecture and cognitive psychology
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
